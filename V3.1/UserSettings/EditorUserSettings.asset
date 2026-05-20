@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 6
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 0200565406060d0f085b0a74477b064047454b7e797e716874794c61b1b4353a
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5203025101050c5f5e565d7416700844464f4828747c70662e2a1e63b5b9373c
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5705015f5102580b5b5a0a7749220b44104e4d7b7e7e77367f7a4c35b6b93261
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5306060757535b5d5d590e7b417b5e44464f19782a2a7f617b7c4c31b2b46069
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5755570004045f0f5c58552711215b44154f417e747e7f342f7f1c62e4b4673c
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 5b53030303065e59085c0d2344720e4443164873292b746775701f60b4b06261
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_DesiredBuildWorkerCount: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_RemoveUnusedReferencesFromMaterial: 0
