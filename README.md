@@ -27,6 +27,7 @@ git clone https://github.com/z54413210-star/Chasing-the-Sun.git
 4. Open the main scene and click **Play**.
 
 #### Open by link
+Enter https://chasing-the-sun.netlify.app/, wait for some time and enjoy our game!
 
 You can also choose levels to play in the first scene.
 But it is better to start from the beginning, as there will be some instructions to help you get familiar with the game control.
