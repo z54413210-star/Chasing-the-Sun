@@ -63,7 +63,7 @@ git clone https://github.com/z54413210-star/Chasing-the-Sun.git
 
 ---
 
-## Acknowledgement / 致谢
+## 致谢
 
 特别感谢：
 
